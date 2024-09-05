@@ -9742,6 +9742,10 @@ textarea.form-control-lg {
     margin-left: 3rem !important;
   }
 
+  .ms-lg-6 {
+    margin-left: 5rem !important;
+  }
+  
   .ms-lg-auto {
     margin-left: auto !important;
   }
